@@ -1,4 +1,4 @@
-<img src="http://niftyhedgehog.com/bleach-shirts/images/bleach_shirt.jpg">
+<img src="http://niftyhedgehog.com/bleach-shirts/images/embroidered.jpg">
 
 ## Overview
 I have a unique/weird clothing style. For some time now, I've been custom designing my own t-shirts and embroidered polo shirts (mostly with obscure media references). However, I usually create the design and have a 3rd party entity such as Vistaprint do the manufacturing.
